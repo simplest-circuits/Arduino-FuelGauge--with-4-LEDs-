@@ -1,16 +1,8 @@
-# Arduino simple FuelGauge
+*/Arduino FuelGauge with 4 LEDs
+code written 04/2020 Dominik Tha.
+*/
 
-This is a simple and DIY FuelGauge for motocycles, cars, rc models or anything else.
-The only thing you need is something like a potentiometer or gauge sensor with a floating resistor.
 
-  - cheap
-  - accurate
-  - easy to build
-
-# Code
-I think it´s self explaining:
-
-```C++
 short poti = A0;
 short value;
 short fuelPercentage;
@@ -144,13 +136,3 @@ void loop()
     }
   }
 }
-
-```
-
-# Wiring
-![FuelGauge example](\FuelGauge_Fritzing.png)
-
-# License
-![CCL](\license.png)
-Creative Commons License
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
