@@ -148,9 +148,9 @@ void loop()
 ```
 
 # Wiring
-![FuelGauge example](\FuelGauge_Fritzing.png)
+![FuelGauge example](FuelGauge_Fritzing.png)
 
 # License
-![CCL](\license.png)
+![CCL](license.png)
 Creative Commons License
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
