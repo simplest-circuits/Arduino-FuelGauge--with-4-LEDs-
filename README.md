@@ -11,6 +11,10 @@ The only thing you need is something like a potentiometer or gauge sensor with a
 I think it´s self explaining:
 
 ```C++
+/*Arduino FuelGauge with 4 LEDs
+code written 04/2020 Dominik Tha.
+*/
+
 short poti = A0;
 short value;
 short fuelPercentage;
@@ -152,5 +156,6 @@ void loop()
 
 # License
 ![CCL](license.png)
+
 Creative Commons License
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.

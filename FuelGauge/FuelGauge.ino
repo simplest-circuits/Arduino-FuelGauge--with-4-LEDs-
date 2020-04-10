@@ -1,4 +1,4 @@
-*/Arduino FuelGauge with 4 LEDs
+/*Arduino FuelGauge with 4 LEDs
 code written 04/2020 Dominik Tha.
 */
 
